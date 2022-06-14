@@ -37,9 +37,20 @@
       </a>
 
 <div class="text-mono text-small mb-3">
+        <h1>Coding</h1>
 <a href="https://www.google.com/search?q=Coding&tbm=isch&ved=2ahUKEwiapIXg9qz4AhXUet4KHUtECYkQ2-cCegQIABAA&oq=Coding&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECc6BAgAEBM6CAgAEB4QBRATUOkLWOkLYPcQaABwAHgAgAF6iAHrAZIBAzAuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=6XyoYtqLHNT1-QbLiKXICA&bih=698&biw=1536">#Coding</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">
         
-<a href="https://www.google.com/search?q=Code&tbm=isch&ved=2ahUKEwjfrqbH9qz4AhV5TPUHHfS1DB8Q2-cCegQIABAA&oq=Code&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECc6CAgAEB4QBxATUKEJWKEJYKEOaABwAHgAgAF9iAHvAZIBAzAuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=tXyoYp-AI_mY1e8P9Ouy-AE&bih=698&biw=1536">#Code</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;"> </div>
+<a href="https://www.google.com/search?q=Code&tbm=isch&ved=2ahUKEwjfrqbH9qz4AhV5TPUHHfS1DB8Q2-cCegQIABAA&oq=Code&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECc6CAgAEB4QBxATUKEJWKEJYKEOaABwAHgAgAF9iAHvAZIBAzAuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=tXyoYp-AI_mY1e8P9Ouy-AE&bih=698&biw=1536">#Code</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;"> 
+        <a href="https://www.google.com/search?q=HTMLtag&tbm=isch&ved=2ahUKEwjludm5-az4AhXGUPUHHeSfCeQQ2-cCegQIABAA&oq=HTMLtag&gs_lcp=CgNpbWcQAzIECAAQEzoECCMQJzoGCAAQHhAHOgcIIxDqAhAnUO4HWKAKYMwMaAFwAHgAgAF5iAHoAZIBAzAuMpgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=vn-oYuXiFcah1e8P5L-moA4&bih=743&biw=1536&hl=ko">#HTMLtag</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;"> 
+        <a href="https://www.google.com/search?q=csstag&tbm=isch&ved=2ahUKEwicld_N-az4AhVMFYgKHc8jBa4Q2-cCegQIABAA&oq=csstag&gs_lcp=CgNpbWcQAzIGCAAQHhAHMgYIABAeEAcyBggAEB4QBzIGCAAQHhAHMgYIABAeEAcyBggAEB4QBzIGCAAQHhAHMgYIABAeEAcyBggAEB4QBzIGCAAQHhAHOgQIIxAnOgQIABATOggIABAeEAcQEzoECAAQAzoFCAAQgARQ3Q1YriBgnCZoAHAAeACAAXaIAfkGkgEDMC44mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=6H-oYpyBGMyqoATPx5TwCg&bih=743&biw=1536&hl=ko">#CSStag</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;"> 
+         <a href="https://www.google.com/search?q=javascript+tag&tbm=isch&ved=2ahUKEwjSv8fp-az4AhWqRvUHHeUlBiEQ2-cCegQIABAA&oq=javatag&gs_lcp=CgNpbWcQARgAMgYIABAeEAcyBggAEB4QBzIGCAAQHhAHMgYIABAeEAcyBggAEB4QBzIICAAQHhAIEAcyCAgAEB4QCBAHMggIABAeEAgQBzIICAAQHhAIEAcyCAgAEB4QCBAHOgQIIxAnOgQIABATOggIABAeEAcQEzoFCAAQgAQ6BAgAEAM6BggAEAoQE1CiCVjcJGDBNmgAcAB4AIABgQGIAaAHkgEDMC44mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=IoCoYtKmLKqN1e8P5cuYiAI&bih=743&biw=1536&hl=ko">#JAVASCRIPTtag</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;"> 
+        <a href="https://www.google.com/search?q=debugging&tbm=isch&ved=2ahUKEwjCl6CG-qz4AhUSdXAKHXSRBAcQ2-cCegQIABAA&oq=debugging&gs_lcp=CgNpbWcQAzIFCAAQgAQyBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB46BAgjECc6BAgAEBM6CAgAEB4QCBATOgYIABAeEAg6BwgjEOoCECdQ_AdYnxFguxNoAXAAeAOAAX-IAfAMkgEEMC4xNZgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=XoCoYsLwNpLqwQP0opI4&bih=743&biw=1536&hl=ko">#debugging
+</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;"> 
+        <a href="https://www.google.com/search?q=debug&sxsrf=ALiCzsZsaf4QFnOqW8lmOvM7IXGOjIgf2g:1655210208011&source=lnms&tbm=isch&sa=X&ved=2ahUKEwikjOjD-qz4AhUUxIsBHeZ0B08Q_AUoAXoECAIQAw&biw=1536&bih=743&dpr=1.25">#debug
+</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;"> 
+                <a href="https://www.google.com/search?q=debugger&sxsrf=ALiCzsakVsL8D9K52OhgEHpmbBGlch0mBg:1655210291465&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjA8s3r-qz4AhWLPZQKHVxoCE4Q_AUoAXoECAIQAw&biw=1536&bih=743&dpr=1.25">#debugger
+</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;"> 
+        </div>
 
 
 
