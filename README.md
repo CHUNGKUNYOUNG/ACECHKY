@@ -36,9 +36,10 @@
         鄭 建 泳 정 건 영 CHUNGKUNYOUNG <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="30px" style="max-width: 100%;">
       </a>
 
+<div class="text-mono text-small mb-3">
 <a href="https://www.google.com/search?q=Coding&tbm=isch&ved=2ahUKEwiapIXg9qz4AhXUet4KHUtECYkQ2-cCegQIABAA&oq=Coding&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECc6BAgAEBM6CAgAEB4QBRATUOkLWOkLYPcQaABwAHgAgAF6iAHrAZIBAzAuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=6XyoYtqLHNT1-QbLiKXICA&bih=698&biw=1536">#Coding</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">
         
-<a href="https://www.google.com/search?q=Code&tbm=isch&ved=2ahUKEwjfrqbH9qz4AhV5TPUHHfS1DB8Q2-cCegQIABAA&oq=Code&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECc6CAgAEB4QBxATUKEJWKEJYKEOaABwAHgAgAF9iAHvAZIBAzAuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=tXyoYp-AI_mY1e8P9Ouy-AE&bih=698&biw=1536">#Code</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">
+<a href="https://www.google.com/search?q=Code&tbm=isch&ved=2ahUKEwjfrqbH9qz4AhV5TPUHHfS1DB8Q2-cCegQIABAA&oq=Code&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECc6CAgAEB4QBxATUKEJWKEJYKEOaABwAHgAgAF9iAHvAZIBAzAuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=tXyoYp-AI_mY1e8P9Ouy-AE&bih=698&biw=1536">#Code</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;"> </div>
 
 
 
