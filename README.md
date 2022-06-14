@@ -25,6 +25,15 @@
 <a href="https://www.youtube.com/channel/UCC9b5wrw8iLG_AYDfgJNtow" title="CHUNGKUNYOUNG" rel="nofollow">
     <img src="https://camo.githubusercontent.com/49b79f4b44d168dce5c8ea7a525527342c355fa0d77d1c3d8729938db8e23486/68747470733a2f2f696d672e736869656c64732e696f2f796f75747562652f6368616e6e656c2f73756273637269626572732f55435f34752d6258616261377972527a5f3678366b625f773f7374796c653d736f6369616c" height="30" data-canonical-src="https://img.shields.io/youtube/channel/subscribers/UC_4u-bXaba7yrRz_6x6kb_w?style=social" style="max-width: 100%;">
   </a>
+  
+  <h4>Expect youtube</h4>
+  <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="30px" style="max-width: 100%;">
+
+<a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC" rel="nofollow">
+        드림코딩 by 엘리 <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="30px" style="max-width: 100%;">
+      </a>
+
+
 
 
 
