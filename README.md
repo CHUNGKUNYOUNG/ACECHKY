@@ -1,14 +1,7 @@
 # ACECHKY And 鄭 建 泳 정 건 영 CHUNGKUNYOUNG ( CHUNGKUNYOUNG CHIVALRY )
 
-<img src="https://user-images.githubusercontent.com/69118888/173563446-d2e29938-5a2a-403a-b866-9b0e8faf93cc.png" height="180" style="max-width: 100%;">
-
+<img src="https://user-images.githubusercontent.com/69118888/173563446-d2e29938-5a2a-403a-b866-9b0e8faf93cc.png" height="250" style="max-width: 300%;">
 <img src="https://user-images.githubusercontent.com/69118888/173563523-7c07246f-5ad7-43d0-9b78-5d4843b1a925.png" height="180" style="max-width: 100%;">
-
-
-![202206141958chky01](https://user-images.githubusercontent.com/69118888/173563446-d2e29938-5a2a-403a-b866-9b0e8faf93cc.png)
-
-![202206141956chky03](https://user-images.githubusercontent.com/69118888/173563523-7c07246f-5ad7-43d0-9b78-5d4843b1a925.png)
-
 
 <p dir="auto">1973.06.24 ChungKunYoung Photo <a href="https://www.instagram.com/ACECHKY/" rel="nofollow"><img src="https://camo.githubusercontent.com/e3d4f28b68ddcb661ae21daaf9ffda3a86ce25e30de86975b63399f73de63df3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65372f496e7374616772616d5f6c6f676f5f323031362e7376672f3130323470782d496e7374616772616d5f6c6f676f5f323031362e7376672e706e67" width="20" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" style="max-width: 100%;"> @acechky</a> </a><br>Transformation Ace 1973.06.24 ChungKunYoung <b><br> Earth Star the Orient ( = the East ) South Korea <i><br>1973.06.24 ChungKunYoung </i></b><br>Transformation<b>acechky </b>ChungKunYoung<b>Chivalry</p>
 
